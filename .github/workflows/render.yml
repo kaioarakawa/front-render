@@ -1,4 +1,4 @@
-name: Deploy Node + Prisma to Render
+name: Deploy rede leitura PROD
 
 on:
   push:
